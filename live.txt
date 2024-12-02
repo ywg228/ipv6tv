@@ -339,59 +339,59 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 求索纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
 求索生活,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
-SITV欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001$4K
-SITV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455$4K
-SITV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
-SITV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
-SITV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
-SITV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
-SITV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
-SITV游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
-SITV七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
-SITV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
-IHOT爱院线,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000030630
-IHOT爱谍战,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000070630
-IHOT爱悬疑,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000050630
-IHOT爱喜剧,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000010630
-IHOT爱科幻,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000020630
-IHOT爱科学,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000160630
-IHOT爱浪漫,hhttp://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000040630
-IHOT爱历史,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
-IHOT爱旅行,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000250630
-IHOT爱奇谈,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000270630
-IHOT爱赛车,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000240630
-IHOT爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
-IHOT爱玩具,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000220630
-IHOT爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
-IHOT爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
+SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001$4K
+SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455$4K
+SiTV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
+SiTV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
+SiTV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
+SiTV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
+SiTV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
+SiTV游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
+SiTV七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
+SiTV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
+iHOT爱院线,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000030630
+iHOT爱谍战,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000070630
+iHOT爱悬疑,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000050630
+iHOT爱喜剧,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000010630
+iHOT爱科幻,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000020630
+iHOT爱科学,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000160630
+iHOT爱浪漫,hhttp://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000040630
+iHOT爱历史,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
+iHOT爱旅行,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000250630
+iHOT爱奇谈,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000270630
+iHOT爱赛车,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000240630
+iHOT爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+iHOT爱玩具,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000220630
+iHOT爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
+iHOT爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 精彩影视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
 精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 精彩影视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=
 
-NEWTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NEWTV中国功夫,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NEWTV军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NEWTV军旅剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NEWTV农业致富,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NEWTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NEWTV家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NEWTV怡伴健康,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NEWTV惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NEWTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NEWTV欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-NEWTV武搏世界,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NEWTV海外剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NEWTV潮妈辣婆,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NEWTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NEWTV精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NEWTV精品纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NEWTV精品体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-NEWTV超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-NEWTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NEWTV超级电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NEWTV超级综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-NEWTV金牌综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NEWTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NewTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV中国功夫,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军旅剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV农业致富,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV怡伴健康,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV武搏世界,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV海外剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV潮妈辣婆,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV金牌综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
@@ -627,6 +627,7 @@ SiTV东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/20000000020000
 烟台公共,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000281/index.m3u8?IASHttpSessionId=
 烟台经济科技,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8?IASHttpSessionId=
 烟台影视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000283/index.m3u8?IASHttpSessionId=
+山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
 
 山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
@@ -999,6 +1000,7 @@ SiTV东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/20000000020000
 江苏影视,http://kms.yzcancer.cn:8888/rtp/239.49.8.118:8000
 优漫卡通,http://kms.yzcancer.cn:8888/rtp/239.49.8.119:8000
 
+优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
@@ -1120,7 +1122,6 @@ SiTV东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/20000000020000
 北京纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京卡酷少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010081/1.m3u8
 北京卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-
 北京纪实科教,http://39.134.64.179:6610/PLTV/88888888/224/3221225729/index.m3u8?
 
 北京卫视,http://221.219.97.2:4022/rtp/239.3.1.241:8000 
@@ -1192,6 +1193,7 @@ IPTV大健康,http://221.219.97.2:4022/rtp/239.3.1.251:8001
 
 
 广东,#genre#
+广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 珠江频道,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=1fd6cc62946fd1914c90cf5e0965bed9-kF0WAF9x2DU5kEwoobenPJhMdJ7EJQzacTgNSYpg1a3%2FCoPn0%2FOK21arBtjdB3vhmVaJfE5O09luK3oxGGJz%2BUYqBbalo0ubebYhAWtlRI2lVuoh9ope4Fbdyxf5diUgYyqnBA4cKy0QoBe4NqS1CNn77UVP0e7lM6qItub2XY9kj7Jk9hhH5OIlfkv5JWsNxzMlgUFdC5lO4AsiGj1bb6bITw%2FGWYFkuHGejFMkq%2BPK%2BoH7n4SAhlOoHaFVcXK7GdmZ61uJihJmeoAPt9MdzrWSr7Zhf3vjDFnlkn%2F%2BCz1zsIi0pXywblQOH54ztYRunfspuy3SYJLz68JXcCuv1KYTa3M4Wx6bxwwhKNQGxTaCDi42psvGGc3Xp6c%2FmQ9hzIziX1CAgY1HusRHsVuqYnCmvXg9cNa3OcQ3BlDkvaPCCMPZd%2FjH2C%2Bu8wGchXC1Mepap8G2UnPAqzcnIOVUdRFLXvywz%2B7wQdz27h8VAT0%3D
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 深圳公共,http://gmxw.7766.org:808/hls/156/index.m3u8
@@ -1725,6 +1727,8 @@ CCTV-16奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/P
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
+NewTV精品体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
@@ -1767,10 +1771,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 
 其它,#genre#
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8
 金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
-山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 新海南,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
 
 
