@@ -439,8 +439,8 @@ NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 MOMOTV綜合台,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
+DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -792,7 +792,7 @@ Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaispor
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 
 
-斗鱼直播,#genre#
+斗鱼,#genre#
 神乐剧场,http://jiaojirentv.top/2020/dy.php?id=85894
 神乐剧院,http://jiaojirentv.top/2020/dy.php?id=122402
 欧美大片,http://jiaojirentv.top/2020/dy.php?id=2793084
