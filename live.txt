@@ -302,6 +302,7 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -314,6 +315,10 @@ Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro QJ,http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 
 
 上海,#genre#
