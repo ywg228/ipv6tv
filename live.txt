@@ -21,7 +21,6 @@ CCTV-14少儿,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88
 CCTV-15音乐,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16奥林匹克,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业农村,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 中国教育1台,http://[2409:8087:74d9:21::6]/270000001128/9900000046/index.m3u8
 中国教育2台,http://[2409:8087:74d9:21::6]/270000001128/9900000071/index.m3u8
 中国教育4台,http://[2409:8087:74d9:21::6]/270000001128/9900000072/index.m3u8
@@ -287,19 +286,18 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 香港,#genre#
-鳳凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
-鳳凰資訊,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 鳳凰中文,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
 鳳凰資訊,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
 鳳凰香港,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
-鳳凰中文,http://eyfs.vicp.net:8888/rtp/239.76.246.134:1234
-鳳凰資訊,http://eyfs.vicp.net:8888/rtp/239.76.246.135:1234
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+鳳凰資訊,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+鳳凰中文,http://eyfs.vicp.net:8888/rtp/239.76.246.134:1234
+鳳凰資訊,http://eyfs.vicp.net:8888/rtp/239.76.246.135:1234
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
@@ -538,6 +536,7 @@ CCTV-5体育,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/888
 CCTV-5体育,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 CCTV-5+体育赛事,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-16奥林匹克,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
