@@ -99,13 +99,15 @@ CGTN,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
 辽宁卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 甘肃卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 陕西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 陕西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+云南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 兵团卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 延边卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 安多卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
@@ -236,50 +238,49 @@ NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 
 
 台灣,#genre#
-民視,rtmp://f13h.mine.nu/sat/tv051
-台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
-東森超視,rtmp://f13h.mine.nu/sat/tv331
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+東森超視台,rtmp://f13h.mine.nu/sat/tv331
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
+緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 
-中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
-八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
-緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
@@ -342,8 +343,8 @@ Astro QJ,http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 
 
 上海,#genre#
-东方卫视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东方卫视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 
 上海新闻综合,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8
@@ -379,21 +380,8 @@ SiTV东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/20000000020000
 
 
 黑龙江,#genre#
-黑龙江卫视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-黑龙江新闻法治,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江新闻法治,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-黑龙江文体,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江文体,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-黑龙江影视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-黑龙江影视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-黑龙江都市,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-黑龙江农业科教,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江农业科教,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-黑龙江少儿,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-佳木斯新闻综合,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-牡丹江新闻综合,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-
-黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江新闻法治,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -541,10 +529,9 @@ SiTV东方财经,http://[2409:8087:5e01:24::16]:6610/000000001000/20000000020000
 
 
 体育,#genre#
-CCTV-5体育,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5体育,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-CCTV-5+体育赛事,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-16奥林匹克,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-5体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+体育赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-16奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
