@@ -290,12 +290,7 @@ France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 香港,#genre#
@@ -324,8 +319,6 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$北美
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
@@ -340,9 +333,7 @@ ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
 Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro QJ,http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 
 
 上海,#genre#
