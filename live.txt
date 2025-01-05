@@ -163,16 +163,13 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 数字,#genre#
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
-CHC动作电影,http://home.js001.com:7777/stream/channelid/1524691456?profile=pass
-CHC家庭影院,http://home.js001.com:7777/stream/channelid/569319485?profile=pass
-CHC影迷电影,http://home.js001.com:7777/stream/channelid/138818596?profile=pass
+CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
+CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://175.152.138.112:6066/udp/239.93.42.5:5140
 CHC家庭影院,http://175.152.138.112:6066/udp/239.93.42.6:5140
 CHC动作电影,http://175.152.138.112:6066/udp/239.93.42.7:5140
-CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
-CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
-CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy$国内
