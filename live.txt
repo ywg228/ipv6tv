@@ -253,6 +253,7 @@ TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 東森新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
@@ -277,30 +278,21 @@ TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
+AXN台灣,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi
+AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv017
+i-Fun動漫台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-ftv15
+i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
-
-AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-AMC電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv017
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-
 
 
 香港,#genre#
@@ -314,44 +306,27 @@ ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
-娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8$4K
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+無綫新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+無綫新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$北美
-翡翠劇集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$北美
-明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$北美
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
+娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-ViuTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 
 
 上海,#genre#
