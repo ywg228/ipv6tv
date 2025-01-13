@@ -236,54 +236,46 @@ NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 華視,rtmp://f13h.mine.nu/sat/tv111
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中視,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv040
+華視,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv041
+台視,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv066
 民視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv155
 台視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
 中視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
 華視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
-
+中天新聞台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009
 中天新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv009
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亞洲台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv109
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv073
-TVBS,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-東森新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
-東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-東森超視台,rtmp://f13h.mine.nu/sat/tv331
-寰宇新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn14
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
+寰宇新聞台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=litv-longturn14
+寰宇新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn14
+東森新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
+東森超視台,rtmp://f13h.mine.nu/sat/tv331
+龍華日韓台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=litv-longturn11
+龍華日韓台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn11
+龍華偶像台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=litv-longturn12
+龍華經典台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=litv-longturn21
+龍華經典台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn21
+龍華電影台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=litv-longturn03
+龍華電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn03
+靖天電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv061
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
-緯來體育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
-靖天電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv061
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龍華日韓台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn11
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn21
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn03
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv017
 八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
 AXN台灣,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi
-AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-AMC電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv017
 i-Fun動漫台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-ftv15
-i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
@@ -293,6 +285,7 @@ ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 
 香港,#genre#
@@ -302,29 +295,16 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8$4K
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-無綫新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-無綫新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
-娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
 美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
@@ -429,6 +409,3 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 芊珏影视,http://lxajh.top/tv/douyu.php?id=8814650
 3说电影,http://lxajh.top/tv/douyu.php?id=9643264
 易说影视,http://lxajh.top/tv/douyu.php?id=10859591
-
-❤️,#genre#
-维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
