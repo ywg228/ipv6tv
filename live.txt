@@ -230,8 +230,26 @@ NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 睛彩篮球,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩广场舞,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
+港台,#genre#
+鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
-台灣,#genre#
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
+美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
 民視,rtmp://f13h.mine.nu/sat/tv051
@@ -285,28 +303,7 @@ ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
-
-
-香港,#genre#
-鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
-美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 
 上海,#genre#
@@ -409,3 +406,4 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 芊珏影视,http://lxajh.top/tv/douyu.php?id=8814650
 3说电影,http://lxajh.top/tv/douyu.php?id=9643264
 易说影视,http://lxajh.top/tv/douyu.php?id=10859591
+
