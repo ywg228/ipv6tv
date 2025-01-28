@@ -321,7 +321,7 @@ ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+❤️支持一下,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 黑龙江,#genre#
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
